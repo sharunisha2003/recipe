@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+   }
+   .head{
+       background-color: aquamarine;
+       color: white;
+       margin: 0px;
+       text-align: center;
+       border-radius: 0px;
+       box-shadow: none;
+   }
+   div{
+       background-color: azure;
+       border-radius: 15px;
+       padding: 10px;
+       margin: 20px;
+       font-size: large;
+       box-shadow: 2px 3px grey;
+   }
+   .d2 h3{
+       color: palevioletred;
+   }
+   .d3 h3{
+       color: palevioletred;
+   }   
